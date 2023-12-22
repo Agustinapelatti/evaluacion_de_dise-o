@@ -1,0 +1,26 @@
+body {
+    background-color: bisque;
+}
+
+.rosa {
+    background-color: rgb(245, 117, 250);
+
+}
+header {
+   background-color: rgb(245, 117, 250);
+
+}
+
+.centro{
+    text-align: center;
+}
+
+.letra{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+}
+
+.boton {
+    margin-left: 20%;
+    
+}
